@@ -1,0 +1,5 @@
+{
+  "name": "Arabic RTL Fixer",
+  "description": "A tool to fix Arabic text rendering issues in design software like Affinity by converting characters to their correct presentation forms and reversing the string.",
+  "requestFramePermissions": []
+}
